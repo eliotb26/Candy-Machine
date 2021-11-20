@@ -1,0 +1,11 @@
+.title{
+    color:rgba(212,21,116,255)
+}
+
+h1{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: white; 
+    color: rgba(212,21,116,255);
+}
+
